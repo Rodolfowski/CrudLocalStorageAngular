@@ -1,7 +1,7 @@
 # AngularCrudLocalHost
 Projeto gerado pelo Angular CLI.
 
-# AngularCrudLocalHost
+# Como o projeto funciona
 Baixe os arquivos de forma zipada ou via terminal com o gitclone.
 
 Na pasta do projeto deverá executar o comando para instalar as dependencias.
