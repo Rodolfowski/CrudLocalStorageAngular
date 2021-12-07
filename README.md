@@ -11,3 +11,6 @@ Após a instalação das dependencias rodar o seguinte comando no terminal
 $ ng serve
 
 No seu navegador acessar LOCALHOST:4200
+lINK MOSTRANDO O PROJETO
+
+https://youtu.be/9wfHsDzd31I
